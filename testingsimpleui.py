@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import ttk
 from tkinter import messagebox
 
 # Initialize the main application window
@@ -15,8 +16,10 @@ def on_button_click():
     messagebox.showinfo("Action", "Button clicked!")
 
 # Button to trigger the function
-button = tk.Button(root, text="Click Me", command=on_button_click)
+button = ttk.Button(root, text="Click Me", command=on_button_click)
 button.pack()
 
 # Start the Tkinter event loop
 root.mainloop()
+
+
