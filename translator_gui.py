@@ -6,7 +6,7 @@ class TranslatorApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Offline Language Translator")
-        self.root.geometry("600x600")
+        self.root.geometry("650x600")
         self.translator = OfflineTranslator()
 
         # Input text area
