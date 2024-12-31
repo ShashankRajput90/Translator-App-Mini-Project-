@@ -6,6 +6,15 @@ from pydub import AudioSegment
 from pydub.playback import play
 import pyttsx3
 
+LANGUAGE_MAP = {
+    "fr": "French",
+    "es": "Spanish",
+    "de": "German",
+    "hi": "Hindi",
+    "zh": "Chinese",
+    "ja": "Japanese",
+}
+
 class TranslatorWithCache:
     def __init__(self):
         self.model_cache = {}
