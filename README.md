@@ -2,7 +2,8 @@
 
 # Offline Language Translator with Speech and Text Capabilities
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](![image](https://github.com/user-attachments/assets/6e8da665-9a5c-468e-a754-278821a058a0)
+)
 
 ## 🌟 Overview
 This is a Python-based **Offline Language Translator** with a user-friendly GUI that supports:
@@ -83,10 +84,12 @@ The app is built using state-of-the-art Machine Learning models and frameworks, 
 ## 🖥️ Screenshots
 
 ### Main Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](![image](https://github.com/user-attachments/assets/de18781a-7938-42cd-a035-594ad477fad4)
+)
 
 ### Translation in Action
-![Translation Example](images/translation_example.png)
+![Translation Example](![image](https://github.com/user-attachments/assets/609dbbd1-784a-4b56-9d94-168d638c9545)
+)
 
 ---
 
