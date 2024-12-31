@@ -36,23 +36,23 @@ The app is built using state-of-the-art Machine Learning models and frameworks, 
 ## ✨ Required Dependencies
 
    # Core Dependencies
-   **torch**: For running PyTorch-based models used by transformers.
-   **whisper**: For speech-to-text functionality using OpenAI's Whisper model.
-   **transformers**: For working with pre-trained translation models like MarianMT.
-   **VITS (via pip or a repository)**: For speech synthesis.
-   **tkinter**: For the graphical user interface (GUI).
-   **pygame**: For managing sounds, fonts, and other media in GUI.
+   -**torch**: For running PyTorch-based models used by transformers.
+   -**whisper**: For speech-to-text functionality using OpenAI's Whisper model.
+   -**transformers**: For working with pre-trained translation models like MarianMT.
+   -**VITS (via pip or a repository)**: For speech synthesis.
+   -**tkinter**: For the graphical user interface (GUI).
+   -**pygame**: For managing sounds, fonts, and other media in GUI.
 
    # Utility Dependencies
-   **pyttsx3**: For text-to-speech synthesis.
-   **speechrecognition**: For converting speech to text.
-   **pyaudio**: For capturing microphone input (required by speechrecognition).
-   **numpy**: A helper library often required for scientific computation.
-   **scipy**: Useful in some cases for advanced processing.
+   -**pyttsx3**: For text-to-speech synthesis.
+   -**speechrecognition**: For converting speech to text.
+   -**pyaudio**: For capturing microphone input (required by speechrecognition).
+   -**numpy**: A helper library often required for scientific computation.
+   -**scipy**: Useful in some cases for advanced processing.
 
    # Optional Dependencies
-   **requests**: For any online API calls.
-   **pillow**: For image processing in GUI if necessary.
+   -**requests**: For any online API calls.
+   -**pillow**: For image processing in GUI if necessary.
 
 
 ## 🛠️ Technologies Used
