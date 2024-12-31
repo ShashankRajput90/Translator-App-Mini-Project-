@@ -2,9 +2,6 @@
 
 # Offline Language Translator with Speech and Text Capabilities
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/6e8da665-9a5c-468e-a754-278821a058a0)
-)
-
 ## 🌟 Overview
 This is a Python-based **Offline Language Translator** with a user-friendly GUI that supports:
 - **Speech-to-Text**: Converts spoken language from an audio file into text.
@@ -84,12 +81,12 @@ The app is built using state-of-the-art Machine Learning models and frameworks, 
 ## 🖥️ Screenshots
 
 ### Main Interface
-![Main Interface](![image](https://github.com/user-attachments/assets/de18781a-7938-42cd-a035-594ad477fad4)
-)
+![Screenshot 2024-12-31 194923](https://github.com/user-attachments/assets/9fda7fbd-7abc-481e-9357-4ab50c777ef0)
+
 
 ### Translation in Action
-![Translation Example](![image](https://github.com/user-attachments/assets/609dbbd1-784a-4b56-9d94-168d638c9545)
-)
+![Screenshot 2024-12-31 195221](https://github.com/user-attachments/assets/3dac4000-77ab-4a4c-bab8-47a0a230fe39)
+
 
 ---
 
